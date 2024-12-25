@@ -3,8 +3,8 @@ This project focuses on predicting career changes for HR analysis.
 
 # Colab Links:
 
-# Colab Link 1: https://colab.research.google.com/drive/15q0ezdJpVoX4WDhIyfLAnBtCD6WjXzfK?usp=sharing
-# Colab Link 2: https://colab.research.google.com/drive/1tjhsD0Fsv9YKLjMV1Shvo6wnCJLZsZc-
+- Colab Link 1: https://colab.research.google.com/drive/15q0ezdJpVoX4WDhIyfLAnBtCD6WjXzfK?usp=sharing
+- Colab Link 2: https://colab.research.google.com/drive/1tjhsD0Fsv9YKLjMV1Shvo6wnCJLZsZc-
 This project is all about understanding and predicting career changes, which is an exciting challenge for HR departments.
 
 # Objectives:
