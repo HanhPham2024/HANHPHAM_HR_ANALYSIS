@@ -1,33 +1,37 @@
 # HANHPHAM_HR_ANALYSIS
-This project aims to predict career changing for HR analysis
+This project focuses on predicting career changes for HR analysis.
 
-the link to colab : 
-https://colab.research.google.com/drive/15q0ezdJpVoX4WDhIyfLAnBtCD6WjXzfK?usp=sharing
-https://colab.research.google.com/drive/1tjhsD0Fsv9YKLjMV1Shvo6wnCJLZsZc-?usp=sharing
+# Colab Links:
 
-Here is quite exciting project about career changing. 
+Colab Link 1
+Colab Link 2
+This project is all about understanding and predicting career changes, which is an exciting challenge for HR departments.
 
-# Our objectives:
+# Objectives:
+Identify key factors that influence career changes.
+Build a predictive model to forecast career transitions.
+Problem Statement:
+HR departments need data-driven insights and tools to attract, retain, and manage talent in a fast-changing workforce environment.
 
-- Identify the key factors that influence career changes 
+# Solution:
+We used Exploratory Data Analysis (EDA) to explore and understand the data. You can access more details in the provided Colab links and the PowerPoint presentation.
 
-- Build a predictive model capable of forecasting career transition
+We compared three models:
+
+Logistic Regression
+RandomForest Classifier
+Decision Tree Classifier
+Results: The Decision Tree Classifier performed the best, with an accuracy of 99.9973% for predicting career changes.
+
+# Conclusion:
+Employee analysis is crucial for HR decision-making. The key factors influencing career changes are:
+
+Job satisfaction
+Interest in changing careers
+Salary
+By focusing on these factors, HR can improve employee retention, maintain a stable workforce, and enhance performance. With these predictive models, HR can easily predict if an employee is likely to change careers and take appropriate actions.
 
 
-# Problem Statement: 
-The HR department requires data-driven insights and effective tools to stay competitive in attracting, retaining, and managing talent in a rapidly evolving workforce landscape
-![image](https://github.com/user-attachments/assets/5a779df8-919f-422e-82f5-4b4dfb3091ab)
 
 
-We implement some steps in exploratory the data (EDA) in order to gain the insights during the progress (click on the above link of colab as well as Power Point Presentation for more references).
-
-There is 03 models in comparision: Logistic Model, RandomForest Classifier and Decision Tree Classifier.
-The result shown that decision Tree Classifier has the most accuracy with 99.9973% for predicting.
-
-Employee analysis is significant for HR’s decision making.
-Main factors that affect to likely change career: Job Satisfaction, Career Change Interest, salary.
-Focus above insights can retain employees, maintain work force, improve performance of employees.
-From these models, HR easily predict whether an employee can be likely to change career and have suitable policy.
-
-![image](https://github.com/user-attachments/assets/1eb2f9d0-4668-4136-80c4-368561edc8a6)
 
