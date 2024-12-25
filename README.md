@@ -1,19 +1,20 @@
 # HANHPHAM_HR_ANALYSIS
 This project focuses on predicting career changes for HR analysis.
 
-# Colab Links:
+# Colab Links
 
 - Colab Link 1: https://colab.research.google.com/drive/15q0ezdJpVoX4WDhIyfLAnBtCD6WjXzfK?usp=sharing
 - Colab Link 2: https://colab.research.google.com/drive/1tjhsD0Fsv9YKLjMV1Shvo6wnCJLZsZc-
+
 This project is all about understanding and predicting career changes, which is an exciting challenge for HR departments.
 
-# Objectives:
+# Objectives
 Identify key factors that influence career changes.
 Build a predictive model to forecast career transitions.
 Problem Statement:
 HR departments need data-driven insights and tools to attract, retain, and manage talent in a fast-changing workforce environment.
 
-# Solution:
+# Solution
 We used Exploratory Data Analysis (EDA) to explore and understand the data. You can access more details in the provided Colab links and the PowerPoint presentation.
 
 We compared three models:
@@ -23,7 +24,7 @@ RandomForest Classifier
 Decision Tree Classifier
 Results: The Decision Tree Classifier performed the best, with an accuracy of 99.9973% for predicting career changes.
 
-# Conclusion:
+# Conclusion
 Employee analysis is crucial for HR decision-making. The key factors influencing career changes are:
 
 Job satisfaction
