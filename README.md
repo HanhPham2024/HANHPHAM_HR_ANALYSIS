@@ -29,7 +29,7 @@ Results: The Decision Tree Classifier performed the best, with an accuracy of 99
 Employee analysis is crucial for HR decision-making. The key factors influencing career changes are:
 
 - Job satisfaction
-- Interest in changing careers
+- Career Changing Interest
 - Salary
 
 By focusing on these factors, HR can improve employee retention, maintain a stable workforce, and enhance performance. With these predictive models, HR can easily predict if an employee is likely to change careers and take appropriate actions.
