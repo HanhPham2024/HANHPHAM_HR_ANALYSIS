@@ -19,9 +19,9 @@ We used Exploratory Data Analysis (EDA) to explore and understand the data. You 
 
 We compared three models:
 
-Logistic Regression
-RandomForest Classifier
-Decision Tree Classifier
+- Logistic Regression
+- RandomForest Classifier
+- Decision Tree Classifier
 Results: The Decision Tree Classifier performed the best, with an accuracy of 99.9973% for predicting career changes.
 
 # Conclusion
