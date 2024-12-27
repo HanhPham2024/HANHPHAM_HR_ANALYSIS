@@ -22,7 +22,7 @@ We compared three models:
 - Logistic Regression
 - RandomForest Classifier
 - Decision Tree Classifier
-+ Results: The Decision Tree Classifier performed the best, with an accuracy of 99.9973% for predicting career changes.
+Results: The Decision Tree Classifier performed the best, with an accuracy of 99.9973% for predicting career changes.
 
 # Conclusion
 Employee analysis is crucial for HR decision-making. The key factors influencing career changes are:
